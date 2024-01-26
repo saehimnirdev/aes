@@ -1,0 +1,15 @@
+i5 6200U 6. Generation, 8. Generation nötig -> Stark veringerte Performance
+RAM von ist vorhanden
+Speicher von 64 GB ist vorhanden
+UEFI ist vorhanden
+TPM 2.0 ist erfüllt
+DirectX 12 und WDDM 2.0 sind erfüllt
+Bildschirmanforderungen sin erfüllt
+
+Mängel:
+Kein HDR möglich
+geringe Performance durch i5 6. Generation
+
+MBEC ist nicht vorhanden bei i5 6200U
+MBEC ist eine Funktion und dient dem Erhalt Speicherintegirtät und der Virtualisierung
+Kernisulierung dient zur Sicherheit vor Maleware
